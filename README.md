@@ -63,7 +63,7 @@ A Node.js application using Express and MongoDB Atlas with three main API endpoi
 ### 2. Search Customer Data (`/db-search`)
 
 - **Method:** GET
-- **Request Parameters:** `customer_name` (optional)
+- **Request Parameters:** `customer_name` 
 
 ### 3. Time-based API Access (`/time-based-api`)
 
