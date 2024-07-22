@@ -30,7 +30,7 @@ A Node.js application using Express and MongoDB Atlas with three main API endpoi
     ```
 4. Set up your environment variables in a `.env` file:
     ```
-    PORT=3004
+    PORT=3000
     MONGODB_URL="mongodb+srv://pro2:3456@cluster0.jiz9vay.mongodb.net/"
     ```
 
